@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84ff0cd8-a1c5-4efb-969b-894e54687059" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="84ff0cd8-a1c5-4efb-969b-894e54687059" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
     <session id="-1142966526">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -171,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539637505724</updated>
-      <workItem from="1539637508612" duration="2725000" />
+      <workItem from="1539637508612" duration="2990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2725000" />
+    <option name="totallyTimeSpent" value="2990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,7 +187,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
@@ -197,8 +194,8 @@
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" weight="0.2708559" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2708559" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" weight="0.32936078" />

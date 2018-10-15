@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "G:\\RiderProjects\\Prime\\Prime\\Prime.csproj",
+    "projectUniqueName": "G:\\RiderProjects\\WWSIS\\Prime\\Prime.csproj",
     "projectName": "Prime",
-    "projectPath": "G:\\RiderProjects\\Prime\\Prime\\Prime.csproj",
-    "outputPath": "G:\\RiderProjects\\Prime\\Prime\\obj\\",
+    "projectPath": "G:\\RiderProjects\\WWSIS\\Prime\\Prime.csproj",
+    "outputPath": "G:\\RiderProjects\\WWSIS\\Prime\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
