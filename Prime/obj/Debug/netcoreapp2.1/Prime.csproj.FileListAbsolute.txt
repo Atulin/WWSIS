@@ -1,0 +1,11 @@
+G:\RiderProjects\Prime\Prime\bin\Debug\netcoreapp2.1\Prime.deps.json
+G:\RiderProjects\Prime\Prime\bin\Debug\netcoreapp2.1\Prime.runtimeconfig.json
+G:\RiderProjects\Prime\Prime\bin\Debug\netcoreapp2.1\Prime.runtimeconfig.dev.json
+G:\RiderProjects\Prime\Prime\bin\Debug\netcoreapp2.1\Prime.dll
+G:\RiderProjects\Prime\Prime\bin\Debug\netcoreapp2.1\Prime.pdb
+G:\RiderProjects\Prime\Prime\obj\Debug\netcoreapp2.1\Prime.csprojAssemblyReference.cache
+G:\RiderProjects\Prime\Prime\obj\Debug\netcoreapp2.1\Prime.csproj.CoreCompileInputs.cache
+G:\RiderProjects\Prime\Prime\obj\Debug\netcoreapp2.1\Prime.AssemblyInfoInputs.cache
+G:\RiderProjects\Prime\Prime\obj\Debug\netcoreapp2.1\Prime.AssemblyInfo.cs
+G:\RiderProjects\Prime\Prime\obj\Debug\netcoreapp2.1\Prime.dll
+G:\RiderProjects\Prime\Prime\obj\Debug\netcoreapp2.1\Prime.pdb
