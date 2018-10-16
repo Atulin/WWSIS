@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Prime\\Prime.csproj",
-    "projectName": "Prime",
-    "projectPath": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Prime\\Prime.csproj",
-    "outputPath": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Prime\\obj\\",
+    "projectUniqueName": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Time\\Time.csproj",
+    "projectName": "Time",
+    "projectPath": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Time\\Time.csproj",
+    "outputPath": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Time\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
