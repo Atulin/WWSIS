@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\student\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\student\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_WWSIS.-193839348.00" t="ExcludeRecursive" />
-    <e p="C:\Users\student\Downloads\WWSIS-master\WWSIS-master" t="IncludeFlat">
+    <e p="C:\Users\Angius\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Angius\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_WWSIS.-729043353.00" t="ExcludeRecursive" />
+    <e p="G:\RiderProjects\WWSIS" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Prime" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -19,6 +19,7 @@
       </e>
       <e p="Time" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Helpers.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
@@ -27,6 +28,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Time.cs" t="Include" />
         <e p="Time.csproj" t="IncludeRecursive" />
       </e>
       <e p="WWSIS.sln" t="IncludeFlat" />

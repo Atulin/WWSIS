@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Prime\\Prime.csproj",
+    "projectUniqueName": "G:\\RiderProjects\\WWSIS\\Prime\\Prime.csproj",
     "projectName": "Prime",
-    "projectPath": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Prime\\Prime.csproj",
-    "outputPath": "C:\\Users\\student\\Downloads\\WWSIS-master\\WWSIS-master\\Prime\\obj\\",
+    "projectPath": "G:\\RiderProjects\\WWSIS\\Prime\\Prime.csproj",
+    "outputPath": "G:\\RiderProjects\\WWSIS\\Prime\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"

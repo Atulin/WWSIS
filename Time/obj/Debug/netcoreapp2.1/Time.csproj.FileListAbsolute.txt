@@ -9,3 +9,14 @@ C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Time\obj\Debug\netcoreapp2.
 C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Time\obj\Debug\netcoreapp2.1\Time.AssemblyInfo.cs
 C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Time\obj\Debug\netcoreapp2.1\Time.dll
 C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Time\obj\Debug\netcoreapp2.1\Time.pdb
+G:\RiderProjects\WWSIS\Time\bin\Debug\netcoreapp2.1\Time.deps.json
+G:\RiderProjects\WWSIS\Time\bin\Debug\netcoreapp2.1\Time.runtimeconfig.json
+G:\RiderProjects\WWSIS\Time\bin\Debug\netcoreapp2.1\Time.runtimeconfig.dev.json
+G:\RiderProjects\WWSIS\Time\bin\Debug\netcoreapp2.1\Time.dll
+G:\RiderProjects\WWSIS\Time\bin\Debug\netcoreapp2.1\Time.pdb
+G:\RiderProjects\WWSIS\Time\obj\Debug\netcoreapp2.1\Time.csprojAssemblyReference.cache
+G:\RiderProjects\WWSIS\Time\obj\Debug\netcoreapp2.1\Time.csproj.CoreCompileInputs.cache
+G:\RiderProjects\WWSIS\Time\obj\Debug\netcoreapp2.1\Time.AssemblyInfoInputs.cache
+G:\RiderProjects\WWSIS\Time\obj\Debug\netcoreapp2.1\Time.AssemblyInfo.cs
+G:\RiderProjects\WWSIS\Time\obj\Debug\netcoreapp2.1\Time.dll
+G:\RiderProjects\WWSIS\Time\obj\Debug\netcoreapp2.1\Time.pdb

@@ -20,3 +20,14 @@ C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Prime\obj\Debug\netcoreapp2
 C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Prime\obj\Debug\netcoreapp2.1\Prime.AssemblyInfo.cs
 C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Prime\obj\Debug\netcoreapp2.1\Prime.dll
 C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Prime\obj\Debug\netcoreapp2.1\Prime.pdb
+G:\RiderProjects\WWSIS\Prime\bin\Debug\netcoreapp2.1\Prime.deps.json
+G:\RiderProjects\WWSIS\Prime\bin\Debug\netcoreapp2.1\Prime.runtimeconfig.json
+G:\RiderProjects\WWSIS\Prime\bin\Debug\netcoreapp2.1\Prime.runtimeconfig.dev.json
+G:\RiderProjects\WWSIS\Prime\bin\Debug\netcoreapp2.1\Prime.dll
+G:\RiderProjects\WWSIS\Prime\bin\Debug\netcoreapp2.1\Prime.pdb
+G:\RiderProjects\WWSIS\Prime\obj\Debug\netcoreapp2.1\Prime.csprojAssemblyReference.cache
+G:\RiderProjects\WWSIS\Prime\obj\Debug\netcoreapp2.1\Prime.csproj.CoreCompileInputs.cache
+G:\RiderProjects\WWSIS\Prime\obj\Debug\netcoreapp2.1\Prime.AssemblyInfoInputs.cache
+G:\RiderProjects\WWSIS\Prime\obj\Debug\netcoreapp2.1\Prime.AssemblyInfo.cs
+G:\RiderProjects\WWSIS\Prime\obj\Debug\netcoreapp2.1\Prime.dll
+G:\RiderProjects\WWSIS\Prime\obj\Debug\netcoreapp2.1\Prime.pdb
