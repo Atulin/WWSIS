@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52410ede-8b32-477c-b580-fd916cc80e71" name="Default Changelist" comment="" />
+    <list default="true" id="52410ede-8b32-477c-b580-fd916cc80e71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Time/Time.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WWSIS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WWSIS/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WWSIS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WWSIS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Debug/netcoreapp2.1/Prime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Prime.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Prime.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Prime.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Prime.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/Prime.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/Prime.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Prime/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/Helpers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Time/Helpers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Time/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/Time.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Time/Time.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Debug/netcoreapp2.1/Time.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Time.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Time.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Time.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Time.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/Time.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/Time.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Time/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Time/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +55,37 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2291" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2291" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-1325004907">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
           <entry key="cs" value="1" />
         </counts>
       </usages-collector>
@@ -26,28 +94,88 @@
           <entry key="C#" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="483" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="483" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Prime/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Time/Helpers.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="460">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
-                <marker date="1539643260973" expanded="true" signature="6:66" ph="..." />
-                <marker date="1539643260973" expanded="true" signature="83:1613" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="119:1611" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="173:686" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="323:676" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="370:491" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="512:662" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="735:1079" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="966:1041" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="1144:1605" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="1304:1530" ph="{...}" />
-                <marker date="1539643260973" expanded="true" signature="1353:1495" ph="{...}" />
+                <marker date="1540241480880" expanded="false" signature="6:66" ph="..." />
+                <marker date="1540241480880" expanded="true" signature="82:720" ph="{...}" />
+                <marker date="1540241480880" expanded="true" signature="109:718" ph="{...}" />
+                <marker date="1540241480880" expanded="true" signature="159:209" ph="{...}" />
+                <marker date="1540241480880" expanded="true" signature="268:712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Time/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="110" selection-start-line="14" selection-start-column="110" selection-end-line="14" selection-end-column="110" />
+              <folding>
+                <marker date="1540243203487" expanded="true" signature="29:632" ph="{...}" />
+                <marker date="1540243203487" expanded="true" signature="49:630" ph="{...}" />
+                <marker date="1540243203487" expanded="true" signature="95:624" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Time/Time.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+              <folding>
+                <marker date="1540243293468" expanded="true" signature="29:6160" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="53:6158" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="182:332" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="352:475" ph="/* \ ... */" />
+                <marker date="1540243293468" expanded="true" signature="580:1108" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="614:931" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="1142:1346" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="1384:1939" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="1966:2086" ph="/* \ ... */" />
+                <marker date="1540243293468" expanded="true" signature="2133:2252" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="2303:2408" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="2427:2547" ph="/* \ ... */" />
+                <marker date="1540243293468" expanded="true" signature="2605:3928" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="2917:3026" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="3057:3164" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="3193:3293" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="3373:3695" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="3468:3681" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="3726:3830" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="3985:5308" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="4297:4406" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="4437:4544" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="4573:4673" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="4753:5075" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="4848:5061" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="5106:5210" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="5355:5459" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="5507:5752" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="5589:5688" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="5771:5886" ph="/* \ ... */" />
+                <marker date="1540243293468" expanded="true" signature="5939:6048" ph="{...}" />
+                <marker date="1540243293468" expanded="true" signature="6094:6152" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,11 +183,33 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>t</find>
+      <find>base</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>base</replace>
+      <replace>t</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Time/Helpers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Prime/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Time/Time.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Time/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Time/Helpers.cs" />
+        <option value="$PROJECT_DIR$/Time/Program.cs" />
+        <option value="$PROJECT_DIR$/Time/Time.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -89,6 +239,11 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="WWSIS" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WWSIS" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Time" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,6 +255,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,25 +269,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+  <component name="RunManager" selected=".NET Project.Time">
+    <configuration name="Prime" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Prime/bin/Debug/netcoreapp2.1/Prime.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prime" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Prime/Prime.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Time" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Time/bin/Debug/netcoreapp2.1/Time.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Time" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Time/Time.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Prime" />
+      <item itemvalue=".NET Project.Time" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -144,11 +332,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539643886461</updated>
       <workItem from="1539643889370" duration="297000" />
+      <workItem from="1539686994590" duration="844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297000" />
+    <option name="totallyTimeSpent" value="9121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,37 +350,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27193934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -210,9 +399,9 @@
     <entry file="file://$PROJECT_DIR$/Prime/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding>
-            <marker date="1539643260973" expanded="true" signature="6:66" ph="..." />
+            <marker date="1539643260973" expanded="false" signature="6:66" ph="..." />
             <marker date="1539643260973" expanded="true" signature="83:1613" ph="{...}" />
             <marker date="1539643260973" expanded="true" signature="119:1611" ph="{...}" />
             <marker date="1539643260973" expanded="true" signature="173:686" ph="{...}" />
@@ -224,6 +413,73 @@
             <marker date="1539643260973" expanded="true" signature="1144:1605" ph="{...}" />
             <marker date="1539643260973" expanded="true" signature="1304:1530" ph="{...}" />
             <marker date="1539643260973" expanded="true" signature="1353:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Time/Time.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+          <folding>
+            <marker date="1540243293468" expanded="true" signature="29:6160" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="53:6158" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="182:332" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="352:475" ph="/* \ ... */" />
+            <marker date="1540243293468" expanded="true" signature="580:1108" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="614:931" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="1142:1346" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="1384:1939" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="1966:2086" ph="/* \ ... */" />
+            <marker date="1540243293468" expanded="true" signature="2133:2252" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="2303:2408" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="2427:2547" ph="/* \ ... */" />
+            <marker date="1540243293468" expanded="true" signature="2605:3928" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="2917:3026" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="3057:3164" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="3193:3293" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="3373:3695" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="3468:3681" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="3726:3830" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="3985:5308" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="4297:4406" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="4437:4544" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="4573:4673" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="4753:5075" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="4848:5061" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="5106:5210" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="5355:5459" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="5507:5752" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="5589:5688" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="5771:5886" ph="/* \ ... */" />
+            <marker date="1540243293468" expanded="true" signature="5939:6048" ph="{...}" />
+            <marker date="1540243293468" expanded="true" signature="6094:6152" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Time/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="110" selection-start-line="14" selection-start-column="110" selection-end-line="14" selection-end-column="110" />
+          <folding>
+            <marker date="1540243203487" expanded="true" signature="29:632" ph="{...}" />
+            <marker date="1540243203487" expanded="true" signature="49:630" ph="{...}" />
+            <marker date="1540243203487" expanded="true" signature="95:624" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Time/Helpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1540241480880" expanded="false" signature="6:66" ph="..." />
+            <marker date="1540241480880" expanded="true" signature="82:720" ph="{...}" />
+            <marker date="1540241480880" expanded="true" signature="109:718" ph="{...}" />
+            <marker date="1540241480880" expanded="true" signature="159:209" ph="{...}" />
+            <marker date="1540241480880" expanded="true" signature="268:712" ph="{...}" />
           </folding>
         </state>
       </provider>
