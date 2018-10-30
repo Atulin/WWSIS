@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\bin\Debug\netcoreapp2.1\Expressions.deps.json
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\bin\Debug\netcoreapp2.1\Expressions.runtimeconfig.json
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\bin\Debug\netcoreapp2.1\Expressions.runtimeconfig.dev.json
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\bin\Debug\netcoreapp2.1\Expressions.dll
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\bin\Debug\netcoreapp2.1\Expressions.pdb
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\obj\Debug\netcoreapp2.1\Expressions.csprojAssemblyReference.cache
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\obj\Debug\netcoreapp2.1\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\obj\Debug\netcoreapp2.1\Expressions.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\obj\Debug\netcoreapp2.1\Expressions.AssemblyInfo.cs
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\obj\Debug\netcoreapp2.1\Expressions.dll
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\Expressions\obj\Debug\netcoreapp2.1\Expressions.pdb
