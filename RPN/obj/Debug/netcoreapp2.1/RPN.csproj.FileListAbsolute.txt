@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\bin\Debug\netcoreapp2.1\RPN.deps.json
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\bin\Debug\netcoreapp2.1\RPN.runtimeconfig.json
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\bin\Debug\netcoreapp2.1\RPN.runtimeconfig.dev.json
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\bin\Debug\netcoreapp2.1\RPN.dll
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\bin\Debug\netcoreapp2.1\RPN.pdb
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\obj\Debug\netcoreapp2.1\RPN.csprojAssemblyReference.cache
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\obj\Debug\netcoreapp2.1\RPN.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\obj\Debug\netcoreapp2.1\RPN.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\obj\Debug\netcoreapp2.1\RPN.AssemblyInfo.cs
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\obj\Debug\netcoreapp2.1\RPN.dll
+C:\Users\student\Downloads\WWSIS-master\WWSIS-master\RPN\obj\Debug\netcoreapp2.1\RPN.pdb

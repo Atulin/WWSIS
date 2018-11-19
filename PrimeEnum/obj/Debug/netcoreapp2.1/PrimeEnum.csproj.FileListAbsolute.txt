@@ -1,0 +1,11 @@
+G:\RiderProjects\WWSIS\PrimeEnum\bin\Debug\netcoreapp2.1\PrimeEnum.deps.json
+G:\RiderProjects\WWSIS\PrimeEnum\bin\Debug\netcoreapp2.1\PrimeEnum.runtimeconfig.json
+G:\RiderProjects\WWSIS\PrimeEnum\bin\Debug\netcoreapp2.1\PrimeEnum.runtimeconfig.dev.json
+G:\RiderProjects\WWSIS\PrimeEnum\bin\Debug\netcoreapp2.1\PrimeEnum.dll
+G:\RiderProjects\WWSIS\PrimeEnum\bin\Debug\netcoreapp2.1\PrimeEnum.pdb
+G:\RiderProjects\WWSIS\PrimeEnum\obj\Debug\netcoreapp2.1\PrimeEnum.csprojAssemblyReference.cache
+G:\RiderProjects\WWSIS\PrimeEnum\obj\Debug\netcoreapp2.1\PrimeEnum.csproj.CoreCompileInputs.cache
+G:\RiderProjects\WWSIS\PrimeEnum\obj\Debug\netcoreapp2.1\PrimeEnum.AssemblyInfoInputs.cache
+G:\RiderProjects\WWSIS\PrimeEnum\obj\Debug\netcoreapp2.1\PrimeEnum.AssemblyInfo.cs
+G:\RiderProjects\WWSIS\PrimeEnum\obj\Debug\netcoreapp2.1\PrimeEnum.dll
+G:\RiderProjects\WWSIS\PrimeEnum\obj\Debug\netcoreapp2.1\PrimeEnum.pdb

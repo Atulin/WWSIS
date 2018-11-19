@@ -5,6 +5,18 @@
     <e p="C:\Users\Angius\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Angius\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_WWSIS.-729043353.00" t="ExcludeRecursive" />
     <e p="G:\RiderProjects\WWSIS" t="IncludeFlat">
+      <e p="Collections" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Collections.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Collections.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="Expressions" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Expression.cs" t="Include" />
@@ -30,6 +42,30 @@
         </e>
         <e p="Prime.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
+      </e>
+      <e p="PrimeEnum" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PrimeEnum.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PrimeEnum.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="RPN" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="RPN.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RPN.csproj" t="IncludeRecursive" />
       </e>
       <e p="Time" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
